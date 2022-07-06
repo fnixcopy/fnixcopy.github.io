@@ -6,3 +6,4 @@ relative_links:
 include:
   - installation/local.md
 remote_theme: fnixcopy/just-the-docs/
+color_scheme: dark
