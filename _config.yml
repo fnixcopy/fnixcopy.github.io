@@ -1,6 +1,3 @@
-Create the _.config.yml file
-That file should be created on the root of your repository. Here is some content to copy-paste in it:
-
 plugins:
   - jekyll-relative-links
 relative_links:
