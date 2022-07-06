@@ -1,3 +1,4 @@
+name: Hilzu Userbot
 plugins:
   - jekyll-relative-links
 relative_links:
