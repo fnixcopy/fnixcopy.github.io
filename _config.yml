@@ -7,4 +7,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - local.md
+  - installation/local.md
+remote_theme: just-the-docs/just-the-docs
