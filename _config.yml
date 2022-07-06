@@ -5,4 +5,4 @@ relative_links:
   collections: true
 include:
   - installation/local.md
-remote_theme: "fnixcopy/GreenTheme"
+remote_theme: "dracula/gh-pages"
